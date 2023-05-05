@@ -1,0 +1,19 @@
+{
+  "name": "room",
+  "version": "0.0.1",
+  "description": "room",
+  "engines": {
+    "node": "14.x"
+  },
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node web"
+  },
+  "author": "jgrindall",
+  "license": "BSD",
+  "dependencies": {
+    "express": "~4.16.4",
+    "grunt": "~0.4.5"
+  }
+}
